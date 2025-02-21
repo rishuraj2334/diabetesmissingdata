@@ -1,0 +1,33 @@
+Dataset
+
+The dataset consists of 835 records with the following features:
+
+Pregnant: Number of times pregnant
+
+Glucose: Glucose concentration in blood
+
+Diastolic_BP: Diastolic blood pressure
+
+Skin_Fold: Skin thickness measurement
+
+Serum_Insulin: Insulin levels
+
+BMI: Body Mass Index
+
+Diabetes_Pedigree: Genetic risk factor
+
+Age: Age of the patient
+
+Class: 0 (No Diabetes), 1 (Diabetes)
+
+Visualizations Included
+
+The dashboard includes the following visualizations:
+
+Histogram of Glucose Levels - Distribution of glucose levels across individuals.
+
+Boxplot of BMI by Diabetes Class - Comparison of BMI between diabetic and non-diabetic individuals.
+
+Scatter Plot of Age vs. Glucose Levels - Relationship between age and glucose levels, color-coded by diabetes status.
+
+Count Plot of Pregnancy Count - Distribution of pregnancy counts among individuals.
